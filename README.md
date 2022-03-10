@@ -29,5 +29,13 @@ This demo has a limited set of filters that given the context in which it has be
 
 ### > How to handle this repo
 
-This repo contains all of the components of the project, however its structure is still being optimized for maximum accesibilioty and clarity of evalaution and exploration.
+This repo contains all of the components of the project, however its structure is still being optimized for maximum accesibility and clarity of evalaution and exploration. The content is expected to be arranged in a more user friendly way and the code made more accesible, cleansed and conataining more relevant comments in future actualizations.
+
+The structure goes as follows:
+
+- 'Data' folder: contains the main datasets of the project.
+- 'Scrapping Notebooks': contains the code related to web scrapping and the data obtained in such way
+- APIs Notebooks: contains h¡the code related to APIs and data extraction from APIs
+- 'H3 Geo notebooks':  contains the code related to geo indexing and the tool itself
+- 'Presentation': contains the relevant files to run the tool Demo on streamlit
 
